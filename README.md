@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="PlantManager" title="PlantManager" src=".github/logo.svg" />
+    <img alt="PlantManager" title="PlantManager" src="https://user-images.githubusercontent.com/51173138/115907871-d2b67580-a43f-11eb-979d-27f1f7ffd5eb.png" />
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="Moveit" src=".github/plantmanager-preview.png">
+  <img alt="Moveit" src="https://user-images.githubusercontent.com/51173138/115907343-1f4d8100-a43f-11eb-8d9c-c42652361e45.png">
 </p>
 
 ---
