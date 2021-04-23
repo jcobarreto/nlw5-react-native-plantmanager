@@ -48,7 +48,7 @@ Follow the steps below
 # Install the dependencies
 $ yarn install
 
-# Start json-server api
+# Start json-server api (* verificar o IP que o expo está rodando e alterar o endereço no comando abaixo)
 $ json-server ./src/services/server.json --host 192.168.0.101 --port 3333 --delat 700
 
 # Start the project
@@ -75,5 +75,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 
 ---
-
-Made with 💜 by [jcobarreto] 👋
+Made with 💜 by Julio Barreto 👋🏻 [Get in touch!](https://www.linkedin.com/in/jcobarreto/)
