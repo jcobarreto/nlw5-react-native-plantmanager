@@ -40,7 +40,7 @@ Clone the project and access the folder
 
 ```bash
 $ git clone https://github.com/jcobarreto/nlw5-react-native-plantmanager.git
-$ cd nlw-05-plantmanager
+$ cd nlw5-react-native-plantmanager
 ```
 
 Follow the steps below
